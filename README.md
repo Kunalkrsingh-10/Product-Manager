@@ -1,3 +1,5 @@
+![Screenshot of Project on Mac](ss.png)
+
 # Product Manager
 
 This project is a Product Variant Manager built using **React.js** and **Vite**. It allows you to manage product variants dynamically using drag-and-drop functionality with `react-beautiful-dnd` and `@dnd-kit`.
