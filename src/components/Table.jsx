@@ -1,12 +1,12 @@
 Table.jsx
 
 import React, { useState, useEffect } from 'react';
-import '../styles/Right.css';
+import '../Styles/Right.css';
 import { DragDropContext, Droppable, Draggable } from '@hello-pangea/dnd';
 
-import '../styles/Table.css';
-import '../styles/Responnsive.css';
-import "../styles/Right.css"
+import '../Styles/Table.css';
+import '../Styles/Responnsive.css';
+import "../Styles/Right.css"
 
 const initialRows = [
 

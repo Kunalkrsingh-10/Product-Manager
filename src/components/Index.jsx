@@ -1,6 +1,6 @@
 import React from 'react';
-import '../styles/Left.css';
-import "../styles/Index.css";
+import '../Styles/Left.css';
+import "../Styles/Index.css";
 import Left from './Left.jsx';
 import Right from './Right.jsx';
 

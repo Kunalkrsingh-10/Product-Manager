@@ -1,6 +1,6 @@
 import React from 'react';
-import '../styles/Right.css';
-import "../styles/Responnsive.css";
+import '../Styles/Right.css';
+import "../Styles/Responnsive.css";
 import Table from './Table.jsx';
 
 function Right() {
