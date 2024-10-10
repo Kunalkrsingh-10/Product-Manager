@@ -1,8 +1,23 @@
-# React + Vite
+# Product Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Product Variant Manager built using **React.js** and **Vite**. It allows you to manage product variants dynamically using drag-and-drop functionality with `react-beautiful-dnd` and `@dnd-kit`.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the Project
+This application enables the management of product variants in a dynamic table format. Users can add, remove, and reorder product variants using drag-and-drop functionality. It leverages a modern React and Vite setup for fast performance and development.
+
+## Prerequisites
+
+Make sure you have the following installed on your system before proceeding:
+
+- **Node.js** (v16.0.0 or above): [Download Node.js](https://nodejs.org/en/)
+- **Git**: [Download Git](https://git-scm.com/)
+
+## Installation Guide
+
+### 1. Clone the Repository
+
+Use the following command to clone the repository to your local system:
+
+```bash
+git clone https://github.com/Kunalkrsingh-10/Product-Manager.git
